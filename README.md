@@ -1,2 +1,2 @@
 # generateFibonacciFromN
-Generates a fibonacci sequence from ```n``` onwards.
+Generates a fibonacci sequence to ```n``` .
