@@ -1,0 +1,10 @@
+//
+// Created by nghoc on 15/06/2024.
+//
+
+#ifndef GENERATEFIBONACCIFROMN_FIBONACCI_H
+#define GENERATEFIBONACCIFROMN_FIBONACCI_H
+
+void generateFibonacciToN(int n);
+
+#endif //GENERATEFIBONACCIFROMN_FIBONACCI_H
